@@ -1,0 +1,11 @@
+System: Linux
+System Machine: x86_64
+System Version: #59-Ubuntu SMP Wed Oct 21 09:38:44 UTC 2020
+System Processor: x86_64
+
+Port 22 is open
+Port 80 is open
+Port 631 is open
+Port 5432 is open
+Port 6942 is open
+Port 63342 is open
